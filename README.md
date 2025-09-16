@@ -1,93 +1,53 @@
-<div align="center">
+# 👋 Hey there, I'm **Yugesh Raj Shilakar**   
 
-# ✨ Yugesh Raj Shilakar ✨
+💻 Full-stack developer in the **Foneinsure** | 🎸 Music Enthusiast | 🚀 Lifelong Learner
 
-<p><em>A software engineer.</em></p>
 
-<hr>
+---
 
-</div>
+## 🚀 About Me  
+- 🔭 Currently working on **ASP.NET MVC applications** with **n-tier architecture**  
+- 📊 Experienced in building **reporting systems** (Excel/CSV exports, Agent Reports, Claim Memos, Fiscal Year Reports)  
+- 🏦 Exploring innovations in **Banking, Finance, and Insurance systems**  
+- 🧑‍🏫 Passionate about **learning & teaching**   
 
-## 🔭 I'm currently working on
+---
 
-<div align="center"><p>@Foneinsure</p></div>
+## 🛠️ Tech Stack  
 
-## 👀 Visitor Count
+### 💻 Languages & Frameworks  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+### 🗄️ Databases  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![SSMS](https://img.shields.io/badge/SSMS-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)  
 
-## 🏆 GitHub Trophies
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
+---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning  
+- ⚡ Advanced **SQL query optimization** for large-scale reports  
+- 🔍 Building **custom video KYC pipelines** with object detection & OCR  
+- 📝 Crafting better **technical documentation & presentations**  
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-## 🔝 Most Used Languages
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yugesh-shilakar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugesh-shilakar)  
 
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=buefy"/>
-</div>
+---
 
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=buefy&hide_border=false" />
-</div>
-
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**🎨 Frontend**
-
-`HTML5` • `CSS3`
-
-**⚙️ Backend**
-
-`.NET` • `MySQL`
-
-**🚀 DevOps**
-
-`GitHub Actions`
-
-**💬 Languages**
-
-`JavaScript` • `C#`
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** officialyugeshshilakar@gmail.com
-**Phone:** +9779860762545
-
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+⭐ *"Code. Learn. Optimize. Repeat."*  
