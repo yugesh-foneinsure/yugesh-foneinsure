@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**yugesh-foneinsure/yugesh-foneinsure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yugesh Raj Shilakar**, a passionate developer working at **@foneinsure**. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm based in **Nepal** and currently working at **foneinsure**. I am dedicated to honing my skills and contributing to impactful projects in the tech industry. My enthusiasm for learning drives me to stay updated with the latest trends and technologies.
+
+## Skills & Technologies
+
+html,css,mysql,git,github,linux,cs,dotnet
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugesh-foneinsure&show_icons=true&theme=radical)
+
+- Public Repositories: **0**
+- Followers: **0**
+- Following: **0**
