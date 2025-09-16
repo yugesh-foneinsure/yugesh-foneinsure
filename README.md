@@ -1,19 +1,93 @@
-## Hi there! 👋
+<div align="center">
 
-I'm **Yugesh Raj Shilakar**, a passionate developer working at **@foneinsure**. I love creating innovative solutions and exploring new technologies. Let's build something amazing together!
+# ✨ Yugesh Raj Shilakar ✨
 
-## About Me
+<p><em>A software engineer.</em></p>
 
-I'm based in **Nepal** and currently working at **foneinsure**. I am dedicated to honing my skills and contributing to impactful projects in the tech industry. My enthusiasm for learning drives me to stay updated with the latest trends and technologies.
+<hr>
 
-## Skills & Technologies
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,git,github,linux,cs,dotnet&perline=8)](https://skillicons.dev)
+## 🔭 I'm currently working on
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yugesh-foneinsure&show_icons=true&theme=radical)
+<div align="center"><p>@Foneinsure</p></div>
 
-- Public Repositories: **0**
-- Followers: **0**
-- Following: **0**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yugesh-foneinsure&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=flat&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=buefy"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=buefy&hide_border=false" />
+</div>
+
+## 🐦 Latest Tweet
+
+<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
+<div align="center">
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🎨 Frontend**
+
+`HTML5` • `CSS3`
+
+**⚙️ Backend**
+
+`.NET` • `MySQL`
+
+**🚀 DevOps**
+
+`GitHub Actions`
+
+**💬 Languages**
+
+`JavaScript` • `C#`
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** officialyugeshshilakar@gmail.com
+**Phone:** +9779860762545
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
